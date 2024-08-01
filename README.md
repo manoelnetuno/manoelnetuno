@@ -1,0 +1,12 @@
+- 👋 Olá, Eu Sou @manoelnetuno
+- Sou um desenvolvedor apaixonado por aprender e criar coisas novas. Estou aqui para compartilhar meus projetos e habilidades com a comunidade.
+- 
+- 💻 Sou formado em desenvolvimento front-end pela TRYBE, Onde contrui conhecimentos sobre JavaScript, TypeScript, Testes Automatizados, React (com ênfase em Componentes de classe e funcionais. estados, eventos e estilização de componentes), React Router, Redux, Context API & Hooks, bem como Metodologias Ágeis.
+- 🌱 Atualmente estou estudando o modúlo de Back-end: construindo conhecimentos sobre tecnológias como CONSTRUÇÃO DE API REST, DOCKER, RELACIONAMENTOS DE BANCOS DE DADOS SQL, entre outras mais
+- 
+- 📫 entre em contato:
+- ° felipemanoel916@gmail.com
+- ° https://www.linkedin.com/in/felipe-manoel-97042a256/
+- 
+-
+
